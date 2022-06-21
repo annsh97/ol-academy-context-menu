@@ -1,0 +1,43 @@
+.menu {
+  font-size: 14px;
+  background-color: rgb(154, 189, 186);
+  border-radius: 2px;
+  padding: 5px 0 5px 0;
+  width: 150px;
+  height: auto;
+  margin: 0;
+  position: absolute;
+  list-style: none;
+
+  opacity: 1;
+  transition: opacity 0.5s linear;
+}
+
+body {
+  background-color: rgb(59, 148, 148);
+}
+.ul {
+  font-size: 40px;
+
+  height: auto;
+
+  position: absolute;
+  list-style: none;
+  font-style: italic;
+}
+#red {
+  background-color: rgb(202, 47, 12);
+}
+#blue {
+  background-color: rgba(15, 175, 255, 0.849);
+}
+#yellow {
+  background-color: yellowgreen;
+}
+#green {
+  background-color: rgb(205, 55, 173);
+}
+h1 {
+  font-style: italic;
+  background-color: rgb(134, 116, 196);
+}
